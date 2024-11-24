@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="Logo" src="https://github.com/commonlispbr/stickers/blob/master/12120444.png" min-width="250px" max-width="250px" width="250px" align="center">  
+    <img alt="Logo" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2M4MGtzNDg2azJnemtqMjRiOWFqcGd1aWEyOHphMmwzcnl0eTQ4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9AIcXFPzYspabe5bYh/giphy.webp" min-width="250px" max-width="250px" width="250px" align="center">  
   </a>
 </p>
 
