@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="">
+    <img alt="Logo" src="https://github.com/commonlispbr/stickers/blob/master/12120444.png" min-width="250px" max-width="250px" width="250px" align="center">  
+  </a>
+</p>
+
 # Flaming Lisp
 
 A collection of creative and educational games developed in Common Lisp, showcasing the power and versatility of this functional programming language. This repository is perfect for those who want to learn Lisp in a practical and fun way while building interactive gaming experiences.
